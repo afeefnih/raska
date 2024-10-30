@@ -1,7 +1,4 @@
-Here's a README.md template you can use for your RASKA app project:
 
-markdown
-Copy code
 # RASKA App
 
 Welcome to the RASKA App repository! RASKA is a mobile application dedicated to supporting zero hunger through food donations, sustainable tips, and community engagement.
