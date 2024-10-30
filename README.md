@@ -29,5 +29,5 @@ To set up the RASKA App on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/RASKA-App.git
-   cd RASKA-App
+
+   https://github.com/afeefnih/raska.git
